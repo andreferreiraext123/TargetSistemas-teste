@@ -1,0 +1,3 @@
+'''
+Primeiro, ligue o interruptor I1 e mantenha I2 e I3 desligados. Em seguida, vá até as salas das lâmpadas e verifique o estado delas. A lâmpada que estiver acesa é controlada pelo I1. As outras duas estarão apagadas. Agora, volte e desligue I1, ligue I2 e mantenha I3 desligado. Volte para as salas das lâmpadas e verifique novamente. Se uma nova lâmpada estiver acesa, ela é controlada pelo I2. A lâmpada que ainda estiver apagada é controlada pelo I3. Com esse método, em duas verificações, você consegue identificar qual interruptor controla cada lâmpada.
+'''
